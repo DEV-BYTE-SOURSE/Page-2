@@ -8,6 +8,7 @@ h3{
   color:purple;
 }
 p{
+  font-size:32px;
   text-align:center;
   color:brown;
   font-weight:400;
@@ -17,3 +18,9 @@ background{
 }
 body{
   color:green;
+}
+.junior{
+  border-width:2px
+  border-style:solid;
+  border-color:orange;
+}
