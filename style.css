@@ -18,9 +18,11 @@ p{
 }
 background{
   color:grey;
+  
 }
 body{
   color:green;
+  text-align:center;
 }
 .junior{
   border-width:2px;
