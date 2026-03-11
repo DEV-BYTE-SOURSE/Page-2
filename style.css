@@ -1,0 +1,19 @@
+h1{
+  color:red;
+}
+h2{
+  color:gold;
+}
+h3{
+  color:purple;
+}
+p{
+  text-align:center;
+  color:brown;
+  font-weight:400;
+}
+background{
+  color:grey;
+}
+body{
+  color:green;
